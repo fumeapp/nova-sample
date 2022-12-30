@@ -97,3 +97,4 @@ const result = $api.store<models.User>('/user', { name: 'Bob', email: 'bob@mail.
 ```ts
 const result = $api.delete<models.User>('/user/1')
 ```
+
